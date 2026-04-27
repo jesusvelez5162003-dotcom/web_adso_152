@@ -1,0 +1,6 @@
+com\away\web_adso_15\Ingresar.class
+com\away\web_adso_15\RegistroCorreoServlet.class
+com\away\web_adso_15\JakartaRestConfiguration.class
+com\away\web_adso_15\CerrarSesion.class
+com\away\web_adso_15\resources\JakartaEE10Resource.class
+com\away\web_adso_15\EliminarCorreoServlet.class
